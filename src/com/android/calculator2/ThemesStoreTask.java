@@ -16,7 +16,7 @@ import com.google.gson.Gson;
 import com.xlythe.engine.theme.App;
 
 public class ThemesStoreTask extends AsyncTask<String, String, List<App>> {
-    private static final String THEME_URL = "https://raw.githubusercontent.com/CyanogenMod/android_packages_apps_Calculator/cm-11.0/themes.json";
+    private static final String THEME_URL = "https://raw.githubusercontent.com/ReVolt-ROM/packages_apps_Calculator/kitkat/themes.json";
 
     private final Context mContext;
 
